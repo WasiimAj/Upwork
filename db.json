@@ -1,0 +1,8 @@
+{
+    "posts": [
+        { "id": 1, "title": "json-server", "author": "typicode" }
+], 
+    "Users" : [
+        {"id":1, "name":"Wasiim", "Email":"wasiim@gmail.com"}
+    ]
+}
